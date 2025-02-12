@@ -1,0 +1,14 @@
+Step-by-Step Flow:
+
+1. Application starts.
+
+2. The user inputs a string.
+
+3. The string is checked to see if it is a Palindrome. 
+
+4. The program displays whether the string was a Palindrome or not.
+
+5. End of Application.
+
+6. The application ends after displaying the result to the user.
+The user can run the program again or exit.

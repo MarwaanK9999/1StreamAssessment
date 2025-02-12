@@ -1,0 +1,11 @@
+Step-by-Step Flow:
+
+1. Application starts.
+
+2. The user inputs a string.
+
+3. The application processes the string.
+
+4. The reversed string is displayed to the user.
+
+5. End of application.

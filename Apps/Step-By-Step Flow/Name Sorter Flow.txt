@@ -1,0 +1,20 @@
+Step-by-Step Flow:
+
+1. Application Start
+
+2. The user is prompted to enter the first name and surname of individuals.
+
+3. The user is prompted to input the first name and surname. 
+
+4. The user repeats the input for additional names and surnames.
+
+5. To stop entering names, the user types exit when prompted for the first name.
+
+6. At this point, the application exits the input loop and proceeds to sorting using a Bubble Sort algorithm.
+
+7. After sorting is complete, the program displays the sorted list.
+
+8. End of Application.
+
+9. The application ends after displaying the sorted list.
+The user can run the program again or exit.
